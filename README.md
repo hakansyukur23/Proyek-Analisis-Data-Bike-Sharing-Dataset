@@ -10,8 +10,6 @@
 
 [📃 Data Wrangling](#Data_Wrangling)
 
-[🖥️ Power BI Dashboard](#Power-BI-Dashboard)
-
 [🏷️ Conclusion](#conclusion)
 
 ## Introduction
